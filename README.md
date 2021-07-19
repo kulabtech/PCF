@@ -2,7 +2,7 @@
 - `Jenkinsfile` controls the Jenkins Pipeline. More stages can be added into this file
 - `/hello` REST endpoint returns a message
 - Command to deploy into PCF/PWS
-# testing cic/cd file
+# testing cic/cd file from CF
     
         cf login -a https://api.run.pivotal.io -u <user_name> -p <password>
         cf target -o testing -s allstatepoc
