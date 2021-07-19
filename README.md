@@ -6,3 +6,4 @@
     
         cf login -a https://api.run.pivotal.io -u <user_name> -p <password>
         cf push -f <path_to_manifest_yml>
+        cf apps
