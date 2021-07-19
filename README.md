@@ -1,4 +1,4 @@
-# CICD Using Jenkins Pipeline and Pivotal Web Services / Pivotal Cloud Foundry
+CICD Using Jenkins Pipeline and Pivotal Web Services / Pivotal Cloud Foundry
 - `Jenkinsfile` controls the Jenkins Pipeline. More stages can be added into this file
 - `/hello` REST endpoint returns a message
 - Command to deploy into PCF/PWS
