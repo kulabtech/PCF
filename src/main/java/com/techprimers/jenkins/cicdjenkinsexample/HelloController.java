@@ -10,7 +10,7 @@ public class HelloController {
 
     @GetMapping
     public String hello(){
-        return "Hello TechPrimers: "+ System.getEnv(name:"organization_name");
+        return "Hello TechPrimers"
         
     }
 }
