@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cicd-jenkins-example1
+- name: cicd-jenkins-example2
   instances: 1
   buildpack: java_buildpack
   memory: 800m
